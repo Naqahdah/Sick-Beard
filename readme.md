@@ -1,7 +1,4 @@
-ATTENTION: THIS CODE IS NO LONGER BEING MAINTAINED. THIS WAS THE LAST UPDATE TO THE MR_ORANGE PIRATEBAY BRANCH OF SICKBEARD. I DO NOT RECOMMEND USING THIS BUILD. IF SOMETHING BREAKS, IT WILL *NEVER* BE FIXED.   
-
-IF YOU ARE LOOKING FOR A REPLACEMENT FOR THE PIRATEBAY BRANCH OF SICKBEARD, PLEASE SEE http://github.com/echel0n/SickBeard-TVRage, HE HAS UNOFFICIALLY TAKEN OVER DEVELOPMENT OF A MODERN TORRENT SUPPORTING SICKBEARD.
-
+This is a fork of the original Mr. Orange PirateBay edition of SickBeard. I'm only maintaining / bandaid-ing this fork until the SickRage version at http://github.com/echel0n/SickBeard-TVRage stabilizes, for my own sanity!
 
 
 Sick Beard
